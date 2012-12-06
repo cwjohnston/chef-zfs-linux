@@ -1,0 +1,1 @@
+default['zfs_linux']['install_type'] = 'package'
